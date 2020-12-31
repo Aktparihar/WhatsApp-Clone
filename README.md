@@ -1,5 +1,5 @@
 # Screenshot
-
+![image](https://github.com/Aktparihar/WhatsApp-Clone/blob/main/Screenshot.png?raw=true)
 
 # Google Authentication
 google authentication is used in this project.
